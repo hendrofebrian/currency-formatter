@@ -1,6 +1,5 @@
 # currency-converter
-
-> My tremendous Nuxt.js project
+## Deployment link: https://romantic-blackwell-469f0d.netlify.com/
 
 ## Build Setup
 
